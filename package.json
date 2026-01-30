@@ -62,7 +62,7 @@
   "devDependencies": {
     "@types/async-retry": "^1.4.5",
     "@types/bn.js": "^5.1.0",
-    "eslint": "^8.32.0",
+    "eslint": "^9.26.0",
     "ts-node": "^10.8.1"
   }
 }
